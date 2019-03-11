@@ -9,5 +9,7 @@
       "nome": "Médico dermatologista"
     }
   ],
-  "success": "true"
+  "profile": {
+    "name": "eu"
+  }
 }
