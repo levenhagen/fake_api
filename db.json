@@ -3,6 +3,10 @@
     {
       "especialidade_id": 195,
       "nome": "Cirurgião dentista (endodontia)"
+    },
+    {
+      "especialidade_id": 98,
+      "nome": "Médico dermatologista"
     }
   ]
 }
